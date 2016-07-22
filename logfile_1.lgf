@@ -1,0 +1,132 @@
+0.000000 - Simulator program starting
+0.000037 - OS: preparing all processes
+0.000041 - OS: selecting next process
+0.000043 - OS: starting process 2
+0.000052 - Process 2: start processing action
+0.110858 - Process 2: end processing action
+0.110867 - Process 2: start processing action
+0.221091 - Process 2: end processing action
+0.221094 - Process 2: start keyboard input
+0.874740 - Process 2: end keyboard input
+0.874773 - Process 2: start processing action
+0.985480 - Process 2: end processing action
+0.985514 - Process 2: start processing action
+1.115616 - Process 2: end processing action
+1.115621 - Process 2: start monitor ouput
+1.215816 - Process 2: end monitor ouput
+1.215852 - Process 2: start keyboard input
+1.816209 - Process 2: end keyboard input
+1.816211 - Process 2: start printer ouput
+2.116422 - Process 2: end printer ouput
+2.116426 - Process 2: start processing action
+2.246672 - Process 2: end processing action
+2.246675 - Process 2: start processing action
+2.366816 - Process 2: end processing action
+2.366819 - Process 2: start processing action
+2.417000 - Process 2: end processing action
+2.417004 - Process 2: start hard drive input
+2.642150 - Process 2: end hard drive input
+2.642153 - Process 2: start hard drive ouput
+2.807460 - Process 2: end hard drive ouput
+2.807463 - Process 2: start hard drive input
+2.987717 - Process 2: end hard drive input
+2.987720 - Process 2: start printer ouput
+3.362951 - Process 2: end printer ouput
+3.362954 - Process 2: start hard drive input
+3.453139 - Process 2: end hard drive input
+3.453141 - Process 2: start processing action
+3.523641 - Process 2: end processing action
+3.523644 - Process 2: start processing action
+3.643750 - Process 2: end processing action
+3.643753 - Process 2: start processing action
+3.693934 - Process 2: end processing action
+3.693937 - Process 2: start processing action
+3.794095 - Process 2: end processing action
+3.794097 - OS: removing process 2
+3.794101 - OS: selecting next process
+3.794102 - OS: starting process 3
+3.794103 - Process 3: start processing action
+3.914271 - Process 3: end processing action
+3.914274 - Process 3: start printer ouput
+4.164392 - Process 3: end printer ouput
+4.164395 - Process 3: start processing action
+4.244540 - Process 3: end processing action
+4.244542 - Process 3: start processing action
+4.384771 - Process 3: end processing action
+4.384773 - Process 3: start hard drive input
+4.535038 - Process 3: end hard drive input
+4.535041 - Process 3: start hard drive ouput
+4.760380 - Process 3: end hard drive ouput
+4.760383 - Process 3: start keyboard input
+5.461072 - Process 3: end keyboard input
+5.461075 - Process 3: start processing action
+5.511319 - Process 3: end processing action
+5.511322 - Process 3: start printer ouput
+5.661446 - Process 3: end printer ouput
+5.661454 - Process 3: start processing action
+5.811751 - Process 3: end processing action
+5.811754 - Process 3: start processing action
+5.922029 - Process 3: end processing action
+5.922032 - Process 3: start keyboard input
+6.672116 - Process 3: end keyboard input
+6.672119 - Process 3: start hard drive ouput
+6.747356 - Process 3: end hard drive ouput
+6.747359 - Process 3: start hard drive input
+6.822504 - Process 3: end hard drive input
+6.822507 - Process 3: start processing action
+6.902650 - Process 3: end processing action
+6.902653 - Process 3: start printer ouput
+7.052860 - Process 3: end printer ouput
+7.052862 - Process 3: start processing action
+7.153022 - Process 3: end processing action
+7.153025 - Process 3: start processing action
+7.283280 - Process 3: end processing action
+7.283283 - Process 3: start keyboard input
+7.533599 - Process 3: end keyboard input
+7.533602 - Process 3: start processing action
+7.613668 - Process 3: end processing action
+7.613671 - OS: removing process 3
+7.613674 - OS: selecting next process
+7.613676 - OS: starting process 1
+7.613677 - Process 1: start processing action
+7.713889 - Process 1: end processing action
+7.713892 - Process 1: start hard drive input
+7.804118 - Process 1: end hard drive input
+7.804121 - Process 1: start hard drive ouput
+7.924337 - Process 1: end hard drive ouput
+7.924340 - Process 1: start keyboard input
+8.224489 - Process 1: end keyboard input
+8.224492 - Process 1: start hard drive ouput
+8.419853 - Process 1: end hard drive ouput
+8.419856 - Process 1: start processing action
+8.540067 - Process 1: end processing action
+8.540070 - Process 1: start hard drive input
+8.720273 - Process 1: end hard drive input
+8.720275 - Process 1: start hard drive ouput
+8.825431 - Process 1: end hard drive ouput
+8.825434 - Process 1: start hard drive input
+8.930592 - Process 1: end hard drive input
+8.930595 - Process 1: start printer ouput
+9.305842 - Process 1: end printer ouput
+9.305845 - Process 1: start keyboard input
+10.006421 - Process 1: end keyboard input
+10.006425 - Process 1: start hard drive ouput
+10.142252 - Process 1: end hard drive ouput
+10.142256 - Process 1: start processing action
+10.242499 - Process 1: end processing action
+10.242502 - Process 1: start keyboard input
+10.993917 - Process 1: end keyboard input
+10.993920 - Process 1: start printer ouput
+11.119110 - Process 1: end printer ouput
+11.119113 - Process 1: start hard drive input
+11.299254 - Process 1: end hard drive input
+11.299257 - Process 1: start hard drive ouput
+11.389462 - Process 1: end hard drive ouput
+11.389465 - Process 1: start hard drive input
+11.479713 - Process 1: end hard drive input
+11.479716 - Process 1: start printer ouput
+11.854916 - Process 1: end printer ouput
+11.854919 - Process 1: start processing action
+12.005063 - Process 1: end processing action
+12.005066 - OS: removing process 1
+12.005070 - Simulator program ending
